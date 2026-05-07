@@ -107,7 +107,7 @@ export default function Hero() {
             View Projects
           </a>
           <a
-            href="SumeerMehta_CV.pdf" download
+            href="Sumeer_Mehta_Resume.pdf" download
             className="text-2xl inline-block px-6 py-3 rounded-full bg-white text-indigo-700 font-semibold shadow hover:bg-indigo-100 hover:text-indigo-900 focus:outline-none focus:ring-2 focus:ring-indigo-300 transition"
 
           >
